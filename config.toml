@@ -1,8 +1,12 @@
 theme = "hyde"
 baseURL = "https://nju-cvicse.cn/"
-languageCode = "en-us"
+defaultContentLanguage = "zh-cn"
 title = "NJU-CVICSE"
+
+[languages.zh-cn]
+  languageCode = "zh-cn"
+
 
 [params]
   themeColor = "theme-base-0d"
-  description = "南京大学-中创软件校企联合研究中心"
+  description = "南京大学-中创软件联合研究中心"

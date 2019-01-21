@@ -1,9 +1,19 @@
-install:
-  - rm -rf public || exit 0
-# Build the website
+sudo: false
+
+language: go
+
+git:
+  depth: 1
+
+install: 
+  - go get github.com/gohugoio/hugo
+
 script:
-  - binary/hugo
-# Deploy to GitHub pages
+  - git submodule init
+  - git submodule update
+  - hugo
+
+  # Deploy to GitHub pages
 deploy:
   provider: pages
   skip_cleanup: true

@@ -1,3 +1,8 @@
-baseURL = "http://example.org/"
+theme = "hyde"
+baseURL = "http://nju-cvicse.cn/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "NJU-CVICSE"
+
+[params]
+  themeColor = "theme-base-0d"
+  description = "南京大学-中创软件校企联合研究中心"

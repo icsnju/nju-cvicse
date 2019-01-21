@@ -1,5 +1,5 @@
 theme = "hyde"
-baseURL = "http://nju-cvicse.cn/"
+baseURL = "https://nju-cvicse.cn/"
 languageCode = "en-us"
 title = "NJU-CVICSE"
 

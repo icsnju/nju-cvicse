@@ -9,9 +9,9 @@ date: 2019-03-14
 会议讨论了项目的技术需求，段昕详细介绍了数据格式，蒋炎岩确定了数据模型和基本算法，并确认下一步工作计划。
 
 
-![](/static/images/highway-0314/highway-1.jpg) 
+![](/images/highway-0314/highway-1.jpg) 
 
-![](/static/images/highway-0314/highway-2.jpg)
+![](/images/highway-0314/highway-2.jpg)
 
-![](/static/images/highway-0314/highway-3.jpg) 
+![](/images/highway-0314/highway-3.jpg) 
 

@@ -9,6 +9,6 @@ date: 2019-03-14
 会议讨论了项目的技术需求，段昕详细介绍了数据格式，蒋炎岩确定了数据模型和基本算法，并确认下一步工作计划。
 
 
-![](http://qiniu-njuics.nemoworks.info/highway-1.jpg) 
+![](http://qiniu-njuics.nemoworks.info/IMG_3945.jpg) 
 
 

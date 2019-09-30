@@ -11,27 +11,27 @@ date: 2019-04-01
 - 完成舆情系统在kubernetes云平台上的分布式的部署问题；
 - 针对质检应用场景设计推荐算法实现为用户提供数据推送服务。
 
-![](http://qiniu-njuics.nemoworks.info/IMG_4311.jpg) 
+![](http://cdn.njuics.cn/IMG_4311.jpg) 
 
-![](http://qiniu-njuics.nemoworks.info/IMG_4312.jpg) 
+![](http://cdn.njuics.cn/IMG_4312.jpg) 
 
 特别地，改次封闭开发完成的权限管理框架支持面向多组织的用户和角色管理，支持可扩展的数据过滤策略开发和多策略组合，可实现灵活复杂的数据保护机制，为未来各类应用场景提供统一化可定制的平台级权限管理功能。
 
 - 组织管理
   
-![组织管理](http://qiniu-njuics.nemoworks.info/WechatIMG5.png)
+![组织管理](http://cdn.njuics.cn/WechatIMG5.png)
 
 - 用户管理
   
-![用户管理](http://qiniu-njuics.nemoworks.info/WechatIMG8.png)
+![用户管理](http://cdn.njuics.cn/WechatIMG8.png)
 
 - 权限满足条件下搜索结果（根据用户与企业所属区域匹配过滤）
   
-![权限满足条件下搜索结果](http://qiniu-njuics.nemoworks.info/WechatIMG1.jpeg)
+![权限满足条件下搜索结果](http://cdn.njuics.cn/WechatIMG1.jpeg)
 
 - 权限不满足条件下搜索结果（根据用户与企业所属区域匹配过滤）
   
-![权限不满足条件下搜索结果](http://qiniu-njuics.nemoworks.info/WechatIMG12.png)
+![权限不满足条件下搜索结果](http://cdn.njuics.cn/WechatIMG12.png)
 
 
 

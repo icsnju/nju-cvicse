@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NJU-CVICSE</title>
+    <link>https://nju-cvicse.cn/</link>
+    <description>Recent content on NJU-CVICSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 23 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nju-cvicse.cn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>上证SDK自动化测试平台前端需求分析</title>
+      <link>https://nju-cvicse.cn/posts/shsdk-1023/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nju-cvicse.cn/posts/shsdk-1023/</guid>
+      <description>2019年10月23日，昆山中创的软件测试团队（杨姣琼，胡玲，葛鸣）在南京大学计算机系进行研讨。南京大学余萍老师、硕士研究生袁佳莉，本科生欧阳鸿荣参加了此次会议。这次会议的主要工作包括：
+ 讨论测试管理平台的前端需求分析； 介绍之前测试出现的数据比对不一致的场景，在新测试框架下看能否复现； 分析K线接口在Android SDK客户端和竞品APP的返回数据比对场景； 部署赴上证研讨前的准备工作。  </description>
+    </item>
+    
+    <item>
+      <title>上证SDK自动化测试项目汇报准备</title>
+      <link>https://nju-cvicse.cn/posts/shsdk-0926/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nju-cvicse.cn/posts/shsdk-0926/</guid>
+      <description>2019年9月26日，昆山中创的软件测试团队（杨姣琼，刘斌，葛鸣）在南京大学计算机系进行技术学习和研讨。南京大学曹春老师、余萍老师、硕士研究生廖祥森、袁佳莉，本科生欧阳鸿荣参与了此次会议。这次会议的主要工作包括：
+ 中创团队学习使用pull request方法提交测试用例代码，并用该方法完成所有测试用例的重新提交工作； 讨论项目汇报的PPT，对现有工作进行小结，并对下一步工作进行了展望； 筹划测试管理平台的开发工作，中创测试团队梳理需求，并协调开发部门人员参与前端界面的设计与实现工作； 南大负责运行测试用例，收集数据，用于进一步的数据比对工作，节后将和中创一起讨论数据比对算法； 南大负责将竞品APP的数据爬取实验代码工程化。  </description>
+    </item>
+    
+    <item>
+      <title>上证SDK自动化测试项目封闭开发</title>
+      <link>https://nju-cvicse.cn/posts/shsdk-0904/</link>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nju-cvicse.cn/posts/shsdk-0904/</guid>
+      <description>2019年9月4日-6日，昆山中创的软件测试团队（杨姣琼，胡玲，刘斌，葛鸣）在南京大学计算机系进行技术研讨和封闭开发。南京大学余萍老师和硕士研究生廖祥森、袁佳莉参与了此次研讨与封闭开发指导工作。这次研讨会议及封闭开发的主要工作包括：
+ 讨论上证SDK的Android版本和iOS版本自动化测试框架的设计和实现方案； 讨论竞品的待比对数据，双方明确了各自任务，由中创团队负责整理竞品数据与SDK接口数据的对应关系，南大研究竞品APP（东财）是否可实现页面数据的截取并记录执行时的关键页面； 中创团队学习如何基于自动化测试框架编写Android和iOS的测试用例，经过三天封闭学习与开发，已基本能独立完成用例编写，并将进一步完善每个测试用例的说明文档； 南大负责部署云端的测试环境，尝试在云端配置并调度执行测试任务。  </description>
+    </item>
+    
+    <item>
+      <title>上证SDK自动化测试项目技术方案研讨</title>
+      <link>https://nju-cvicse.cn/posts/shsdk-0823/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nju-cvicse.cn/posts/shsdk-0823/</guid>
+      <description>2019年8月23日，南京大学余萍老师和硕士研究生廖祥森赴昆山与中创软件测试团队就上证SDK自动化测试项目的技术方案进行研讨。这次研讨会议的主要工作包括：
+ 双方进一步沟通项目需求； 南大介绍基于AirFlow和AndroidJUnitRunner设计的上证SDK Android版本的自动化测试方案； 南大在中创的机器上部署一套可以本地运行的测试环境，并指导测试团队开发Android版本的测试用例； 明确对SDK iOS版本自动化测试的需求。  </description>
+    </item>
+    
+    <item>
+      <title>质监项目南大封闭开发</title>
+      <link>https://nju-cvicse.cn/posts/qs-march/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nju-cvicse.cn/posts/qs-march/</guid>
+      <description>2019年3月25日-4月3日，中创的质监项目开发团队（谷乡情、苏川川、于渊、张博）在南京大学计算机系进行封闭开发。 这次封闭开发的主要工作包括：
+ 进行ELK的学习，尝试利用ELK实现企业信息的多维度分析和可视化展示； 设计平台层用户数据权限管理框架，实现多种策略的数据保护机制； 完成舆情系统在kubernetes云平台上的分布式的部署问题； 针对质检应用场景设计推荐算法实现为用户提供数据推送服务。  特别地，该次封闭开发完成的权限管理框架支持面向多组织的用户和角色管理，支持可扩展的数据过滤策略开发和多策略组合，可实现灵活复杂的数据保护机制，为未来各类应用场景提供统一化可定制的平台级权限管理功能。
+ 组织管理    用户管理    权限满足条件下搜索结果（根据用户与企业所属区域匹配过滤）    权限不满足条件下搜索结果（根据用户与企业所属区域匹配过滤）   </description>
+    </item>
+    
+    <item>
+      <title>高速公路路径还原项目技术研讨</title>
+      <link>https://nju-cvicse.cn/posts/highway-0314/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nju-cvicse.cn/posts/highway-0314/</guid>
+      <description>2019年3月14日，研究中心在南京大学计算机系召开“高速公路路径还原”项目技术研讨会。会议由中心主任曹春老师主持，中创的殷昕和任吉亮，南大的蒋炎岩老师和余萍老师出席了会议，沈宇桔同学参加了研讨。
+会议讨论了项目的技术需求，段昕详细介绍了数据格式，蒋炎岩确定了数据模型和基本算法，并确认下一步工作计划。</description>
+    </item>
+    
+    <item>
+      <title>2019年工作计划</title>
+      <link>https://nju-cvicse.cn/posts/plan-2019/</link>
+      <pubDate>Mon, 21 Jan 2019 20:42:02 +0800</pubDate>
+      
+      <guid>https://nju-cvicse.cn/posts/plan-2019/</guid>
+      <description>联合研究中心2019年将面向中创软件市场项目开展关键技术、平台技术和工程技术的合作研究与开发，依照研究中心工作内容基本框架和实施路线，逐步展开研究中心工作，以季度为粒度制定工作计划如下：
+ 第一季度（落实）  高层研讨会（2019年2月，南京）。以“现状与未来”为主题，中创软件事业部介绍行业现状、当前发展和未来目标，南京大学介绍当前主流软件技术，双方明确本年度拟开展的合作研究项目（包括对现有项目改造或预言性开发项目）。 技术培训（2019年三月，南京）。面向高层研讨会上所确定的当前技术需求和项目意向，南京大学开展相应技术培训，支撑中创软件以最新技术进行项目开发。第一期培训内容包括（暂定）主流应用开发框架，主要为Spring构件、MVC、Data、Batch等和前端（React）开发技术。 共同研发（3-5月），原型开发。  第二季度（效率）  高层研讨会（2019年5月，济南）。以“效率与质量”。针对第一季度项目展开关于项目过程中问题的讨论，特别是架构设计、开发效率与软件质量保障方面，研讨相应软件技术层面的解决之道。 技术培训（2019年六月，南京）。针对软件项目质量提升，开展项目软件架构与设计模式、测试技术等方面的技术学习。 共同开发（6-8月），继续前期项目迭代，提升项目质量。  第三季度（反观）  高层研讨会（2019年8月，南京）。以“核心价值”为主题，研讨软件的客户价值提升与软件产品的核心竞争力提升问题。 技术培训（2019年8月，南京）。面向对象与领域建模、大数据技术、数据挖掘与机器学习等方面的技术培训。 共同开发（9-11月），继续前期项目迭代。  第四季度（小结）。  高层研讨会（2020年1月）。以“改变”为主题，研讨本年度在技术和业务层面的转变。 技术培训（2020年1月，济南）。云计算平台，DevOPS。 共同开发（2019年12-2020年1月，济南），项目迭代。   </description>
+    </item>
+    
+    <item>
+      <title>联合研究中心成立</title>
+      <link>https://nju-cvicse.cn/posts/opening/</link>
+      <pubDate>Fri, 11 Jan 2019 20:41:50 +0800</pubDate>
+      
+      <guid>https://nju-cvicse.cn/posts/opening/</guid>
+      <description>2019年1月9日，“南京大学-中创软件校企联合研究中心”专家论证会在南大科学园双创示范基地2号楼3楼会议室举行。会议由南京大学技术转移中心主任杨思军主持，与会论证专家包括南京大学计算机科学与技术系高阳教授，南京邮电大学计算机学院张卫丰教授和江苏省海事局科技信息处处长卞方顺。
+中创软件工程股份有限公司副总裁刘民，中创软件海事事业部总经理张留斌，南京大学计算机科学与技术系曹春副教授，余萍副教授出席了会议。曹春老师代表南大和中创做答辩报告。与会专家认真听取了汇报，审阅了相关材料，经问询和讨论，最后一致同意成立“南京大学-中创软件校企联合研究中心”。</description>
+    </item>
+    
+  </channel>
+</rss>
